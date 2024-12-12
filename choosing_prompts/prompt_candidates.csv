@@ -1,0 +1,22 @@
+prompt_id,theme,prompt
+0,none, Your job is to rephrase text without changing its meaning.
+1,none, Rephrase this text while keeping the original meaning intact.
+2,sentiment, Rewrite this sentence to improve clarity but maintain its sentiment.
+3,none, Paraphrase the following text without changing its tone or meaning.
+4,sentiment, Reword this text for better readability while preserving its original sentiment.
+5,sentiment, Simplify this text ensuring the original sentiment remains unchanged.
+6,sentiment, Rephrase this text while maintaining its original sentiment.
+7,none, Reword this passage keeping the tone and meaning the same.
+8,none, Transform this paragraph without altering its tone or meaning.
+9,sentiment, Reword this statement while keeping the sentiment the same.
+10,none, Rephrase this content while preserving its original intent.
+11,sentiment, Rewrite this sentence ensuring the sentiment remains unchanged.
+12,none, Paraphrase this passage without changing its meaning.
+13,sentiment, Rework this text maintaining its original sentiment.
+14,none, Rewrite this paragraph while keeping the same tone and meaning.
+15,sentiment, Simplify this passage retaining the original sentiment.
+16,sentiment, Revise this text ensuring the sentiment stays consistent.
+17,none, Rephrase this text without altering its core message.
+18,sentiment, Rewrite this statement preserving the original sentiment.
+19,none, Paraphrase this content while keeping its meaning unchanged.
+

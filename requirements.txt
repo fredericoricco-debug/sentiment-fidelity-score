@@ -1,0 +1,12 @@
+imageio==2.34.2
+matplotlib==3.8.0
+numpy==2.0.1
+openai==1.40.6
+pandas==2.2.2
+scikit_learn==1.5.1
+scipy==1.14.0
+seaborn==0.13.2
+torch==2.2.0.post100
+tqdm==4.65.0
+transformers==4.42.4
+vaderSentiment==3.3.2
